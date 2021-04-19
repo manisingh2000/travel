@@ -246,7 +246,7 @@
                 <div class="col-md-6 d-flex align-items-stretch">
                   <div class="icon-circle purple">
                     <div class="icon">
-                      <i class="fas fa-drumstick-bite"></i>
+                      <i class="fa fa-drumstick-bite"></i>
                     </div>
                     <h4 class="text-white">Good Food</h4>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
@@ -259,7 +259,7 @@
                   <div class="col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
                     <div class="icon-circle pink">
                       <div class="icon">
-                        <i class="fas fa-umbrella-beach"></i>
+                        <i class="fa fa-umbrella-beach"></i>
                       </div>
                       <h4 class="text-white">Beach-Resort</h4>
                       <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
@@ -272,7 +272,7 @@
                     <div class="col-md-6 d-flex align-item-stretch mt-4 ">
                       <div class="icon-circle yellow">
                         <div class="icon">
-                          <i class="fas fa-hiking"></i>
+                          <i class="fa fa-hiking"></i>
                         </div>
                         <h4 class="text-white">Mountain-climbing</h4>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
@@ -285,7 +285,7 @@
                       <div class="col-md-6 d-flex align-item-stretch mt-4 ">
                         <div class="icon-circle blue">
                           <div class="icon">
-                            <i class="fas fa-mountain"></i>
+                            <i class="fa fa-mountain"></i>
                           </div>
                           <h4 class="text-white">Hot Air Ballon</h4>
                           <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
