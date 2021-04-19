@@ -66,16 +66,7 @@
         <form action="" method="POST">
             <p>
             <h2 class="text-center"> Create Account</h2>
-            <!-- <a href="" class="btn btn-block btn-gmail"><img src="images/google-plus-removebg-preview.png" alt="" width=30 height=30>
-                    Login via Gmail</a> <br>
-                <a href="" class="btn btn-block btn-facebook" ><img src="images/facebook-scalable-graphics-icon-facebook-logo-facebook-logo-png-clip-art-removebg-preview.png" alt="" width=50 height=30> -->
-
-
-            <!-- Login via Facebook</a>
-            </p>
-            <p class="divider-text">
-                <span class="bg-light">OR</span>
-            </p> -->
+            
             <div class="form-group input-group">
                 <div class="input-group-prepend">
                     <span class="input-group-text"><span class="material-icons">
@@ -117,7 +108,7 @@
                 <input class="form-control" placeholder="ReEnter password" type="password" name="repassword" value="" required>
             </div>
             <div class="form-group">
-                <button type="submit" name="submit" class="btn btn-primary btn-block"><a href="login.php">Signup</a> </button>
+                <button type="submit" name="submit" class="btn btn-primary btn-block">Signup </button>
             </div>
             <p class="text-center">Have an account? <a href="login.php">Log-in</a></p>
         </form>
