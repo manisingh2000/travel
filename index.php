@@ -131,7 +131,7 @@
               <div class="feature-box">
                 <div class="feature-img">
                   <a href="singapoore.html">
-                  <img src="../Travel_and_Tourism/images/singapur.jpg" width="350" height="250">
+                  <img src="images/singapur.jpg" width="350" height="250">
                 </a>
                   <div class="price">
                     <p>1000$</p>
@@ -161,7 +161,7 @@
               <div class="feature-box">
                 <div class="feature-img">
                   <a href="jaipur.html">
-                  <img src="../Travel_and_Tourism/images/ja22.jpg" width="350vw" height="250vh">
+                  <img src="images/ja22.jpg" width="350vw" height="250vh">
                   </a>
                   <div class="price">
                     <p>88$</p>
@@ -193,7 +193,7 @@
               <div class="feature-box">
                 <div class="feature-img">
                  <a href="dubai.html">
-                  <img src="../Travel_and_Tourism/images/dubai 2.jpg" width="350vw" height="250vh">
+                  <img src="images/dubai 2.jpg" width="350vw" height="250vh">
                 </a>
                   <div class="price">
                     <p>600$</p>
