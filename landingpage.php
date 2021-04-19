@@ -18,7 +18,7 @@
                   width: 100%;
                   height: 100vh;
                   background-image: url("images/land1.jpg");
-                  opticity: 0.5;
+                 
                   background-position: center;
                   background-repeat: no-repeat;
                   background-size: cover;
