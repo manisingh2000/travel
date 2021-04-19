@@ -86,9 +86,9 @@ session_start();
             </div>
 
             <div class="form-group">
-                <button type="submit" name="submit" class="btn btn-primary btn-block"><a href="../">Login</a> </button>
+                <button type="submit" name="submit" class="btn btn-primary btn-block"><a href="index.php">Login</a> </button>
             </div>
-            <p class="text-center">Don't have an account? <a href="signup.php">Signup</a></p>
+            <p class="text-center">Don't have an account? <a href="demo.php">Signup</a></p>
         </form>
         </article>
     </div>

@@ -23,7 +23,8 @@
     justify-content: center;
     align-items:center;
     flex-direction: column;
-    background:url("images/simon-berger-twukN12EN7c-unsplash.jpg");
+    background:url("images/mike-swigunski-_5xgPKGepgc-unsplash.jpg");
+    opacity: 0.9;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -31,10 +32,10 @@
     max-width: 800px;
     text-align:center;
 }
-.contact .content h2{
+.contact .content h1{
     font-size: 36px;
     font-weight: 500;
-    color:black;
+    color:white;
     
 }
 .contact .content p{
@@ -74,7 +75,7 @@
     display: flex;
     margin-left: 20px;
     font-size: 16px;
-    color:mediumvioletred;
+    color:black;
     flex-direction: column;
     font-weight: 300;
 }
@@ -84,12 +85,12 @@
     margin-bottom: 5px;
 }
 .container .contactInfo .box .text h3:hover{
-    color: lightcoral;
+    color: white;
 }
 .contactForm{
     width: 40%;
     padding: 40px;
-    background:#fff;
+    background:hsla(0, 100%, 100%, .6);
 }
 .contactForm h2{
     font-size:30px;
@@ -126,7 +127,7 @@
 .contactForm .inputBox input:valid ~ span,
 .contactForm .inputBox textarea:focus ~ span,
 .contactForm .inputBox textarea:focus ~ span{
-    color:lightcoral;
+    color:black;
     font-size: 12px;
     transform: translateY(-20px);
 }
@@ -190,7 +191,7 @@
     
     <section class="contact">
         <div class="content">
-            <h2>Contact Us</h2>
+            <h1>Contact Us</h1>
             <h3><p style="color:brown;"></p></h3>
 
         </div>

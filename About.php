@@ -37,6 +37,7 @@
       background-color: #ffe6e6;
       margin: 30px;
       
+      
 
     }
 
@@ -86,6 +87,8 @@
         </div>
       </div>
     </div>
+  
+  
 
 
     <div class="column">

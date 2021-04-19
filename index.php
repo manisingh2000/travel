@@ -34,14 +34,14 @@
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"  >Pages</a>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">About Us</a>
-                  <a class="dropdown-item" href="#">Contact Us</a>
+                  <a class="dropdown-item" href="About.php">About Us</a>
+                  <a class="dropdown-item" href="Contact_us.php">Contact Us</a>
                   </div>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle"   data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" >Destination</a>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="package.html">Historical Places</a>
+                  <a class="dropdown-item" href="package.html#historic">Historical Places</a>
                   <a class="dropdown-item" href="#destination">Destination List</a>
                   </div>
               
@@ -99,7 +99,7 @@
 
           
           <div class="carousel-item  ">
-            <img class="d-block w-100" src="images\mt.jpg" alt="First slide">
+            <img class="d-block w-100" src="images/mt.jpg" alt="First slide">
             <div class="carousel-caption">
                 <h3> Find Your Perfect Vacation</h3>
                 <div class="input-group">
