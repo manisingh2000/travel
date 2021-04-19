@@ -310,7 +310,7 @@
            <div class="col-md-3">
              <div class="gallery-box">
                <a href="singapoore.html">
-            <img src="../Travel_and_Tourism/images/sing1.jpg"  width="250vw"  height="200vh">
+            <img src="images/sing1.jpg"  width="250vw"  height="200vh">
             </a>
             <h4>Singapore</h4> 
           </div>
@@ -318,7 +318,7 @@
            <div class="col-md-3">
             <div class="gallery-box">
               <a href="dubai.html">
-           <img src="../Travel_and_Tourism/images/dubai 3 (2).jpg" width="250vw"  height="200vh">
+           <img src="images/dubai 3 (2).jpg" width="250vw"  height="200vh">
            </a>
            <h4>Dubai</h4> 
          </div>
@@ -326,7 +326,7 @@
           <div class="col-md-3">
             <div class="gallery-box">
               <a href="jaipur.html">
-           <img src="../Travel_and_Tourism/images/ja1.jpg"  width="250vw" height="200vh">
+           <img src="images/ja1.jpg"  width="250vw" height="200vh">
            </a>
            <h4>Jaipur</h4> 
          </div>
@@ -334,7 +334,7 @@
           <div class="col-md-3">
             <div class="gallery-box">
               <a href="maldives.html">
-           <img src="../Travel_and_Tourism/images/ma1.jpg"  width="250vw" height="200vh">
+           <img src="images/ma1.jpg"  width="250vw" height="200vh">
               </a>
            <h4>Maldives</h4> 
          </div>
