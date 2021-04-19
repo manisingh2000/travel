@@ -17,7 +17,8 @@
             body {
                   width: 100%;
                   height: 100vh;
-                  background-image: url("images/mike-swigunski-_5xgPKGepgc-unsplash.jpg");
+                  background-image: url("images/land1.jpg");
+                  opticity: 0.5;
                   background-position: center;
                   background-repeat: no-repeat;
                   background-size: cover;
@@ -37,16 +38,16 @@
 
             .logo {
                   
-                  color: #FF4500;
+                  color:rgb(0,0,128);
                   font-size: 20px;
                   line-height: 40px;
                   padding: 1px 20px;
-                  border: 1px solid #00FFFF;
+                  border: 1px solid black;
                   border-radius: 4px;
                   margin: 1.5em;
                   display: inline-block;
                   list-style: none;
-                  font-weight: Lighter;
+                  font-weight: bold;
             }
 
             .menu {
@@ -67,20 +68,20 @@
                   text-decoration: none;
                   color: #fff;
                   font-size: 16px;
-                  font-weight: Lighter;
+                  font-weight: bold;
                   padding: 0 20px;
             }
 
             ul li:nth-child(2) a {
-                  color: #00FF7F;
-                  border: 1px solid #00FFFF;
+                  color: black;
+                  border: 1px solid #00CED1;
                   padding: 10px 20px;
                   border-radius: 4px;
             }
 
             ul li:nth-child(1) a {
-                  color: #00FF7F;
-                  border: 1px solid #00FFFF;
+                  color: black;
+                  border: 1px solid #00CED1;
                   padding: 10px 20px;
                   border-radius: 4px;
             }
@@ -94,7 +95,7 @@
             }
 
             .header h1 {
-                  color: #FFD700;
+                  color: black;
                   font-size: 64px;
                   font-weight: 400px;
                   margin-bottom: 8px;
@@ -103,10 +104,10 @@
             }
 
             .header p {
-                  color: #7CFC00;
+                  color:black;
                   font-size: 28px;
                   font-weight: bold;
-                  text-shadow: 4px 4px 4px OrangeRed;
+                  text-shadow: 4px 4px 4px grey;
                   font-style: italic;
                   font-weight: 1000;
             }
